@@ -37,9 +37,6 @@ npm run dev
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result. (NOTE: the localhost might not work for you if its not 3000)
 
-## Deployment
-
-This project is ready to be deployed on Vercel. For other hosting options, please refer to the Next.js documentation.
 
 ## Future Improvements
 
