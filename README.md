@@ -24,6 +24,8 @@ YoubStore is a modern e-commerce platform built with Next.js, React, and TypeScr
 
 (https://github.com/jdjskah/ecommerce-website.git)
 
+IF THIS DOESNT WORK TRY THIS https://kzmihasdpj9y7rtx57cg.lite.vusercontent.net/
+
 
 2. Install dependencies:
 
